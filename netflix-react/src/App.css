@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(8, 8, 8);
+}
+
+.App {
+  text-align: center;
+  color: white;
+}
+
+/* footer css */
+
+.service-code {
+  background: #141414;
+  color: grey;
+  border: 1px solid grey;
+  font-size: 13px;
+  padding: 0.5em;
+  height: 35px;
+  margin-left: 12px;
+}
+
+.footerContainer {
+  text-align: left;
+  color: grey;
+}
+
+.socialsContainer {
+  margin-bottom: 25px;
+}
+
+.bi-socials {
+  margin-left: 20px;
+}
+
+/* end of footer css */
+
+/* Galleri Styling */
+
+.card-img-gallery {
+  height: 150px !important;
+  width: 300px;
+  object-fit: cover;
+}
